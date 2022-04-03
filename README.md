@@ -28,7 +28,7 @@ Technology that I have touched.
   
   - Vue
   
-  -Express
+  - Express
   
   - Rails
   
